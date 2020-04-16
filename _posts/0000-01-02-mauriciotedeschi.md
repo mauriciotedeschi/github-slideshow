@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Testing
+Cheese happens to be the divinest snack
 Use the left arrow to go back!
